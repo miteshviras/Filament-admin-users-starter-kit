@@ -52,7 +52,7 @@ To get started with the Asset Management System, follow these steps:
     ```
 7. **Create Admin User**: Execute the command below to create an admin user.
     ```bash
-    php artisan user:make-admin-user
+    php artisan user:make-admin
     ```
 8. **Create Storage Link**: Execute the command below to create a symbolic link from `public/storage` to `storage/app/public`.
     ```bash

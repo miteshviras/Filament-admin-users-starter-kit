@@ -18,7 +18,7 @@ class AdminUserCommand extends Command
      *
      * @var string
      */
-    protected $signature = 'user:make-admin-user
+    protected $signature = 'user:make-admin
                             {--name= : The name of the user}
                             {--email= : A valid and unique email address}
                             {--password= : The password for the user (min. 8 characters)}';
